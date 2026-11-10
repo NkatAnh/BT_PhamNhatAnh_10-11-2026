@@ -3,7 +3,7 @@
 - **Mã đề:**
 - **Họ tên:Phạm Nhật Anh**
 - **Lớp:HNSK26CNTT3**
-- **Link repository:**
+- **Link repository:https://github.com/NkatAnh/BT_PhamNhatAnh_10-11-2026.git**
 - **Hệ điều hành (Windows/macOS):Windows**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
