@@ -116,8 +116,10 @@ Get-Content .\logs\loi_model.txt -Head 3
 ### 2 dòng đầu tiên trong logs/loi_model.txt
 
 ```text
-logs\inference.log:8:2026-11-10 08:27:45 ERROR POST /v1/chat/completions
+logs\inference.log:8:2026-11-10 08:27:45 ERROR POST /v1/chat/completions 
 model=CLAUDE-35
+logs\inference.log:9:2026-11-10 08:31:12 ERROR POST 
+/v1/audio/transcriptions model=WHISPER-V3
 
 ```
 
